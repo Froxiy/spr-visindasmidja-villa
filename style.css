@@ -1,8 +1,22 @@
 .intro, h1 {
 	font-family: Georgia;
 	text-align: center;
+	background: #e0606d;
+	padding: 10px 13px 15px 13px;
+
+	max-width: 700px;
+	margin: auto;
+}
+
+.intro {
+	font-size: 19px;
 }
 
 p, li {
 	font-family: Arial;
+}
+
+.sug-crys-and-spaceship {
+	max-width: 465px;
+	margin: left;
 }
