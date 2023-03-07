@@ -2,4 +2,4 @@
 
 Website for a school project.
 
-https://mrzucumber.github.io/spr-visindasmidja-villa
+https://froxiy.github.io/spr-visindasmidja-villa
