@@ -2,4 +2,4 @@
 
 Website for a school project.
 
-https://froxiy.github.io/spr-visindasmidja-villa
+https://tommyolafs.github.io/spr-visindasmidja-villa
